@@ -1,3 +1,5 @@
+Source code has been updated with fully functional client & server logic to accept an input name from the user, get the Merkel-proof and send the proof along with the input name to the server for verification of the Merkle-proof and thereby validate whether the input name is on the Gift-List or not.
+
 # Gift List
 
 To get started with the repository, clone it and then run `npm install` in the top-level directory to install the depedencies.
